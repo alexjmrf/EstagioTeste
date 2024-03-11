@@ -1,0 +1,6 @@
+a)9  - Soma-se 2 com o numero anterior
+b)128 - multiplica-se por 2 o numero anterior
+c)49 - Os quadrados da sequencia de numeros que nesse caso era o 7²
+d)100 - o numero inicial soma-se com 12 e o proximo soma-se com o numero usado anteriormente para a soma somado com 8 que no caso da resposta foi o numero 36
+e)13 - Sequencia de fibonnaci sem o 0
+f)
